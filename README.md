@@ -8,6 +8,7 @@ GolangConf 2019 в Москве
 * Есть единый шаблон для конференции GolangConf 2019
 
 [Скомпилированная презентация на русском](ru/strangego.pdf)
+![Почему Golang такой странный](ru.gif)
 
 ---
 [![UNLICENSE](noc.png)](UNLICENSE)
